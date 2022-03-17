@@ -1,4 +1,2 @@
-# this is the first test for git 
-# jjc 20220317 
-# the is new added commmits nothing serious
-# hello world
+# Git is a distributed version control system.
+# Git is free software distributed under the GPL.
